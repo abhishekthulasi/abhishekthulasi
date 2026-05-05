@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in architecting and building end to end solutions
-- 🌱 Currently working full stack with Flutter, Golang, Svelte and Rust
+- 🌱 Love working with Flutter, Golang, Svelte and Rust
 
 <!--
 **abhishekthulasi/abhishekthulasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
