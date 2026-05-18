@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhishek
-- 👀 I’m interested in architecting and building end to end solutions
-- 🌱 Love working with Flutter, Golang, Svelte and Rust
-- 🔗 Portfolio: [abhishekthulasi.com](https://abhishekthulasi.com)
+- 👋 Hi, I’m Abhishek, a Founding Systems Engineer.
+- 🏗️ I specialize in end-to-end systems architecture, from local first frontends to raw WebSocket concurrency.
+- 🛠️ Tech Stack: Rust (Systems/CLI), Golang (Backend), SvelteKit & Flutter (Clients).
+- 🌐 Read my technical case studies and ADRs at: [abhishekthulasi.com](https://abhishekthulasi.com)
 
 <!--
 **abhishekthulasi/abhishekthulasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
