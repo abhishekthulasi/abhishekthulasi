@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek, a Founding Systems Engineer.
-- 🏗️ I specialize in end-to-end systems architecture, from local first frontends to raw WebSocket concurrency.
+- 🏗️ I specialize in end-to-end systems architecture and development, from local first frontends to distributed systems infrastructure.
 - 🛠️ Tech Stack: Rust (Systems/CLI), Golang (Backend), SvelteKit & Flutter (Clients).
 - 🌐 Read my technical case studies and ADRs at: [abhishekthulasi.com](https://abhishekthulasi.com)
 
