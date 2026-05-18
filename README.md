@@ -2,7 +2,7 @@
 
 * 🏗️ **What I do:** I architect end-to-end systems, bridging high-level clients (Flutter/SvelteKit) with memory-safe, low-level cores (Rust/Golang).
 * ⚙️ **How I build:** I optimize for infrastructure costs and user retention. I write custom architecture for scale, but I leverage abstractions when the business needs to ship today.
-* 🛠️ **Core Stack:** Rust (Systems/CLI), Golang (Backend), AWS, Docker, Svelte 5 & Flutter.
+* 🛠️ **Core Stack:** Rust (Systems/CLI), Golang (Backend), AWS, Docker, Svelte & Flutter.
 * 🧠 **Deep Dives:** Read my technical case studies and Architecture Decision Records (ADRs) at [abhishekthulasi.com](https://abhishekthulasi.com)
 
 <!--
