@@ -1,7 +1,7 @@
-### 👋 Hi, I'm Abhishek, a Founding Systems Engineer.
+### 👋 Hi, I'm Abhishek.
 
-* 🏗️ **What I do:** I architect end-to-end systems, bridging high-level clients (Flutter/SvelteKit) with memory-safe, low-level cores (Rust/Golang).
-* ⚙️ **How I build:** I optimize for infrastructure costs and user retention. I write custom architecture for scale, but I leverage abstractions when the business needs to ship today.
+* 🏗️ **What I do:** I love to architect and build end-to-end systems, bridging high-level clients (Flutter/SvelteKit) with low-level cores (Rust/Golang).
+* ⚙️ **How I build:** I optimize for infrastructure costs and user retention. I write custom architecture for scale, but I am open to leveraging abstractions when the business needs to ship today.
 * 🛠️ **Core Stack:** Rust (Systems/CLI), Golang (Backend), AWS, Docker, Svelte & Flutter.
 * 🧠 **Deep Dives:** Read my technical case studies and Architecture Decision Records (ADRs) at [abhishekthulasi.com](https://abhishekthulasi.com)
 
