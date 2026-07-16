@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Abhishek.
 
-* 🏗️ **What I do:** I love to architect and build end-to-end systems, bridging high-level clients (Flutter/SvelteKit) with low-level cores (Rust/Golang).
-* ⚙️ **What I prioritise:** I optimize for operational expense and user retention. I write custom architecture for scale, but I am open to leveraging abstractions when the business needs to ship today.
-* 🛠️ **Core Stack:** Rust (Systems/CLI), Golang (Backend), AWS, Docker, Svelte & Flutter.
-* 🧠 **Deep Dives:** Read my technical case studies and Architecture Decision Records (ADRs) at [abhishekthulasi.com](https://abhishekthulasi.com)
+* **What I do:** I love to architect and build end-to-end systems, bridging high-level clients (Flutter/SvelteKit) with low-level cores (Rust/Golang).
+* **What I prioritise:** I optimize for operational expense and user retention. I write custom architecture for scale, but I am open to leveraging abstractions when the business needs to ship today.
+* **Core Stack:** Rust (Systems/CLI), Golang (Backend), AWS, Docker, Svelte & Flutter.
+* **Deep Dives:** Read my technical case studies and Architecture Decision Records (ADRs) at [abhishekthulasi.com](https://abhishekthulasi.com)
 
 <!--
 **abhishekthulasi/abhishekthulasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
