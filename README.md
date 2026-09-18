@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Abhishek.
 
-* I love architecting and building end-to-end systems, bridging high-level clients (Flutter/SvelteKit) with low-level cores (Rust/Golang).
+* I love architecting and building end-to-end software ecosystems, bridging high-level clients (Flutter/SvelteKit) with low-level cores (Rust/Golang).
 * I prioritise optimizing for operational expense and user retention. I prefer to write custom architecture for scale, while being open to leveraging abstractions when a business needs to ship fast.
 * **Core Stack:** Rust (Systems/Backend), Golang (Systems/Backend), Cloudflare, AWS, Docker, Svelte & Flutter.
 * **Deep Dives:** Read my technical case studies and Architecture Decision Records (ADRs) at [abhishekthulasi.com](https://abhishekthulasi.com)
